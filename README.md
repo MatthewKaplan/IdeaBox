@@ -1,20 +1,9 @@
 # IdeaBox
 
+Ideabox can be used to locally store ideas. Based on how the user feels about the idea it's quality can be manipulated. The user can search for, filter, or delete ideas.
 
+## Deployed version:
 
+[https://matthewkaplan.github.io/IdeaBox/](https://matthewkaplan.github.io/IdeaBox/)
 
-### Given Version: 
-
-![Given Version](https://i.imgur.com/p9AKxcX.jpg)
-
-
-### Desktop Version:
-
-![Desktop Version](https://i.imgur.com/WDeZAeG.png)
-
-
-### Mobile Version:
-
-![Mobile Version](https://i.imgur.com/KEmkbFe.png)
-
-
+<img src="https://i.imgur.com/2Be2Fq6.png" width="900" />
